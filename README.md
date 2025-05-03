@@ -6,26 +6,18 @@ Welcome to my MERN Stack project! This full-stack application demonstrates my sk
 
 ## 🧠 What I Built
 
-This project is a [brief app description — e.g., "task management system," "e-commerce site," "social media platform"] built with:
+This project is a [brief app description — task management system built with:
 - **MongoDB**: for NoSQL database management 🛢️
 - **Express.js**: lightweight Node.js framework for building RESTful APIs ⚙️
 - **React.js**: for building a fast, dynamic, and responsive frontend ⚛️
-- **Node.js**: for server-side logic and API handling 🌐
+- **Node.js**: for server-side logic and API handling
 
----
-
-## 📸 Screenshots (Optional)
-
-Include screenshots here of key pages or features.
-
----
-
+--
 ## ✨ Features
 
 - 🔐 User authentication (JWT)
 - 📦 RESTful API with full CRUD operations
 - 🎨 Responsive UI with React and Tailwind (optional)
-- ⚡️ Real-time updates (if applicable: WebSocket, etc.)
 - 📊 Data stored securely in MongoDB
 - 🧾 Protected routes and role-based access
 - 📥 Form validation and clean UX
